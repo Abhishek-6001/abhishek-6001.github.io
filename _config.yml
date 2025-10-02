@@ -1,3 +1,22 @@
-theme: Minima
+remote_theme: mmistakes/minimal-mistakes
+
 title: "Abhishek Seth"
+name: "Abhishek Seth"
 description: "PhD Student"
+
+# Build settings
+plugins:
+  - jekyll-include-cache
+
+# Navigation
+nav:
+  - title: "Bio"
+    url: /
+  - title: "Education"
+    url: /education/
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "CV"
+    url: /cv/
