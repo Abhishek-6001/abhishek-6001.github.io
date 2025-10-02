@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ### Work in progress
-- Predicting default using the structural model: Empirical evidence from Indian listed firms
+- Predicting default using the structural model: Empirical evidence from Indian listed firms 
 - Bankruptcy reform and firm access to credit
 
 ### Articles
