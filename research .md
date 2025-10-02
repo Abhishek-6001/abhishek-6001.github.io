@@ -11,4 +11,4 @@ permalink: /research/
 - Bankruptcy reform and firm access to credit
 
 ### Articles
-- Govts must balance spending on welfare schemes, freebies with fiscal prudence [Policy Circle](https://www.policycircle.org/opinion/welfare-schemes-vs-freebies/)
+- Govts must balance spending on welfare schemes, freebies with fiscal prudence ([Policy Circle](https://www.policycircle.org/opinion/welfare-schemes-vs-freebies/))
