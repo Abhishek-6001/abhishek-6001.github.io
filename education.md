@@ -4,9 +4,9 @@ title: "Education"
 permalink: /education/
 ---
 
-- **Ph.D. in Finance/Economics**
-:Indian Institute of Technology Roorkee (2021 - Ongoing)
-- **M.A. in Economics (Econometrics)**
-:Banaras Hindu University (2020)
-- **B.A. in Economics (Hons.)**
-:Banaras Hindu University (2018)
+- **Ph.D. in Finance/Economics** <br>
+Indian Institute of Technology Roorkee (2021 - Ongoing)
+- **M.A. in Economics (Econometrics)** <br>
+Banaras Hindu University (2020)
+- **B.A. in Economics (Hons.)** <br>
+Banaras Hindu University (2018)
