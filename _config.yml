@@ -1,8 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 
-title: "Abhishek Seth"
-name: "Abhishek Seth"
-description: "PhD Student"
+title: ""   # leave blank if you don’t want text
+logo: "/assets/images/Abhi_logo.png"   # path to your logo
 
 # Build settings
 plugins:
