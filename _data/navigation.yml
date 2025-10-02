@@ -9,3 +9,10 @@ main:
     url: /teaching/
   - title: "CV"
     url: /cv/
+
+# Minimal Mistakes theme font
+fonts:
+  heading:
+    family: "Merriweather"
+  body:
+    family: "Lora"
