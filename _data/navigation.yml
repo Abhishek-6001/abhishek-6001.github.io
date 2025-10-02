@@ -11,7 +11,7 @@ main:
     url: /cv/
 
 title: ""   # leave blank if you don’t want text
-logo: "/assets/images/Abhi_logo.png"   # path to your logo
+logo: "Abhi_logo.png"   # path to your logo
 
 # Minimal Mistakes theme font
 fonts:
