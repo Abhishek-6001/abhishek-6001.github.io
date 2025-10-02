@@ -11,6 +11,6 @@ I am a doctoral student in the Economic discipline at the ([Department of Humani
 <img src="Abhishek_PP1.jpg" alt="Abhishek Seth" width="200" style="border-radius: 50%;">
 
 # Abhishek Seth
-PhD Student 
+Doctoral student at IIT Roorkee
 
 Research interests **financial economics, financial markets, taxation, capital structure, and municipal finance**.
