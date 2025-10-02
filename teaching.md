@@ -5,5 +5,5 @@ permalink: /teaching/
 ---
 
 # Teaching
-- Financial economics
-- Corporate finance 
+- *Primary:* Financial Economics, Corporate Finance  
+- *Secondary:* Econometrics, Macroeconomics, Microeconomics
