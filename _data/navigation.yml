@@ -1,5 +1,5 @@
 main:
-  - title: "Bio"
+  - title: "Home"
     url: /
   - title: "Education"
     url: /education/
@@ -12,7 +12,7 @@ main:
 
 title: ""   # leave blank if you don’t want text
 logo: "Abhi_logo.png"   # path to your logo
-logo_height: 150
+logo_height: 100px
 
 # Minimal Mistakes theme font
 fonts:
