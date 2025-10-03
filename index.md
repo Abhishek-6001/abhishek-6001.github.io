@@ -4,9 +4,8 @@ title: ""
 permalink: /
 ---
 
-Hello visitor...
-
-I am a doctoral student in the Economic discipline at the ([Department of Humanities and Social Sciences, IIT Roorkee](https://hs.iitr.ac.in/)). My research area primarily focuses on corporate finance in understanding firm financing in India. My broad research interest is Financial Economics, Corporate Finance, and Risk Management. 
+***Welcome!***
+I am a doctoral student in Economics at the ([Department of Humanities and Social Sciences, Indian Institute of Technology Roorkee](https://hs.iitr.ac.in/)). My research focuses on corporate finance, with particular interest in firms’ capital structure, taxation, and financial distress. I am interested in how financial and institutional factors shape firm behavior and market outcomes. I also study issues in municipal finance, with a focus on property taxation and the fiscal capacity.
 
 <img src="Abhishek_PP1.jpg" alt="Abhishek" width="200" style="border-radius: 50%;">
 
