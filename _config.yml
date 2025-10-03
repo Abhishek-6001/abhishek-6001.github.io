@@ -10,7 +10,7 @@ plugins:
 
 # Navigation
 nav:
-  - title: "Bio"
+  - title: "Home"
     url: /
   - title: "Education"
     url: /education/
