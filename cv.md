@@ -6,4 +6,4 @@ permalink: /cv/
 
 # Curriculum Vitae
 
-To request my CV, please email me at [abhishekseth748@gmail.com](mailto:abhishekseth748@gmail.com).
+To request my CV, please email me at [abishek_s@hs.iitr.ac.in](mail to:abishek_s@hs.iitr.ac.in).
