@@ -1,9 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes
 
-title: ""   # leave blank if you don’t want text
-logo: "Abhi_logo.png"   # path to your logo
-logo_height: 100px
-
 # Build settings
 plugins:
   - jekyll-include-cache
