@@ -10,6 +10,10 @@ main:
   - title: "CV"
     url: /cv/
 
+
+title: ""
+logo: ""
+
 # Minimal Mistakes theme font
 fonts:
   heading:
