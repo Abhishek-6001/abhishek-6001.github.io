@@ -13,4 +13,4 @@ permalink: /
 # Abhishek Seth
 Doctoral student at IIT Roorkee
 
-Research interests *financial economics, financial markets, taxation, capital structure, and municipal finance*.
+Research interests: *financial economics, financial markets, taxation, capital structure, and municipal finance*.
