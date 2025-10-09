@@ -10,10 +10,6 @@ main:
   - title: "CV"
     url: /cv/
 
-title: ""   # leave blank if you don’t want text
-logo: "Abhi_logo.png"   # path to your logo
-logo_height: 100px
-
 # Minimal Mistakes theme font
 fonts:
   heading:
